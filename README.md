@@ -1,7 +1,7 @@
 # SolarPoweredUAS
 Matlab/Simulink model construct for master thesis: Assessment and Conceptual Design of Solar Powered Unmanned Aerial Vehicle
 
-Also presented in SAE Paper 2016-36-0437: Conceptual Design of Solar Powered Unmanned Aircraft System Considering Payload Power Requirements on Sizing
+Also presented in SAE Paper 2016-36-0437: Conceptual Design of Solar Powered Unmanned Aircraft System Considering Payload Power Requirements on Sizing (https://saemobilus.sae.org/content/2016-36-0437)
 
 Based on:
 - A student developed sizing methodology for electric powered aircraft applied to small UAVs
